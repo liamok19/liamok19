@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**liamok19/liamok19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
   - Project 1 - COMPLETE - Crypto Muggles: https://liamok19.github.io/Crypto-Muggles/
@@ -25,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Check out my portfolio for resume and contact details: https://liamok19.github.io/liamokane_updated_portfolio/
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I've swapped dancing on stage to dancing in the kitchen. I'm a terrible cook 😄
--->
