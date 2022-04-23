@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on
   - Project 1 - COMPLETE - Crypto Muggles: https://liamok19.github.io/Crypto-Muggles/
   - Project 2 - COMPLETE - Chores to do: https://chorestodo.herokuapp.com/
+  - REACT Project - INP - Portfolio
   - Project 3 - INP - CakeEcommerce
 - 🌱 I’m currently learning Full Stack Development 
   - HTML, CSS, JAVASCRIPT 
