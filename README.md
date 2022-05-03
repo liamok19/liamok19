@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Front-End Developer :D
 
 <a href="http://www.github.com/liamok19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liamok19&stroke=ffffff&background=1c1917&ring=c27ba0&fire=c27ba0&currStreakNum=ffffff&currStreakLabel=c27ba0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
