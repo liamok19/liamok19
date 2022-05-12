@@ -1,5 +1,5 @@
 ### Hi there 👋 Front-End Developer :D
-<a href="http://www.github.com/liamok19"><img src="https://activity-graph.herokuapp.com/graph?username=liamok19&bg_color=98ff98&color=ffffff&line=98ff98&point=ffffff&area_color=98ff98&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/liamok19"><img src="https://activity-graph.herokuapp.com/graph?username=liamok19&bg_color=ffffff&color=ffffff&line=98ff98&point=ffffff&area_color=98ff98&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 - 🔭 I’m currently working on
   - Project 1 - COMPLETE - Crypto Muggles: https://liamok19.github.io/Crypto-Muggles/
