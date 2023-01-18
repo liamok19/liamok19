@@ -1,5 +1,5 @@
 ### Hi there 👋 Front-End Developer :D
-<a href="http://www.github.com/liam O"><img src="https://activity-graph.herokuapp.com/graph?username=liamok19&bg_color=000000&color=ffffff&line=98ff98&point=ffffff&area_color=98ff98&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/liam O"><img src="https://activity-graph.herokuapp.com/graph?username=liamok19&bg_color=000000&color=ffffff&line=98ff98&point=ffffff&area_color=98ff98&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 - 🔭 I’m currently working on
   - Project 1 - COMPLETE - Crypto Muggles: https://liamok19.github.io/Crypto-Muggles/
@@ -25,6 +25,6 @@
 
 <a href="http://www.github.com/liamok19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liamok19&stroke=ffffff&background=1c1917&ring=c27ba0&fire=c27ba0&currStreakNum=ffffff&currStreakLabel=c27ba0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/liamok19"><img src="https://github-readme-stats.vercel.app/api?username=liamok19&show_icons=true&hide=&count_private=true&title_color=ff9400&text_color=ffffff&icon_color=ff9400&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
+<!-- <a href="http://www.github.com/liamok19"><img src="https://github-readme-stats.vercel.app/api?username=liamok19&show_icons=true&hide=&count_private=true&title_color=ff9400&text_color=ffffff&icon_color=ff9400&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a> -->
 
 
